@@ -1,0 +1,2 @@
+include ':app', ':kotr-imap'
+rootProject.name='KotrIMAPExample'
